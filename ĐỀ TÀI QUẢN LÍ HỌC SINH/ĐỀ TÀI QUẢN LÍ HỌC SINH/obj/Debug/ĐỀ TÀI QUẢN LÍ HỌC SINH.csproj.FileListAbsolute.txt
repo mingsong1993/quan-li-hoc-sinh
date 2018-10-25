@@ -1,0 +1,11 @@
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\bin\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.exe.config
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\bin\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.exe
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\bin\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.pdb
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ_TÀI_QUẢN_LÍ_HỌC_SINH.Properties.Resources.resources
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.csproj.GenerateResource.cache
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.csproj.CoreCompileInputs.cache
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.exe
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.pdb
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ_TÀI_QUẢN_LÍ_HỌC_SINH.FormLOGIN.resources
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ_TÀI_QUẢN_LÍ_HỌC_SINH.FormSTUDENTS.resources
+C:\Users\DrakonFly\source\repos\ĐỀ TÀI QUẢN LÍ HỌC SINH\ĐỀ TÀI QUẢN LÍ HỌC SINH\obj\Debug\ĐỀ TÀI QUẢN LÍ HỌC SINH.csprojAssemblyReference.cache
